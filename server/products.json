@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Ibanez",
+    "image_url": "https://s1.bukalapak.com/img/6003288152/w-1000/Gitar_Ibanez_S520___Electric_Guitar.jpg",
+    "price": 100000,
+    "stock": 5,
+    "category": "Guitar",
+    "status": true
+  },
+  {
+    "name": "Cort",
+    "image_url": "https://s1.bukalapak.com/img/1663680021/w-1000/Gitar_Cort_EVL_Z4.jpg",
+    "price": 100000,
+    "stock": 5,
+    "category": "Guitar",
+    "status": true
+  },
+  {
+    "name": "Yamaha",
+    "image_url": "https://s1.bukalapak.com/img/115343872/w-1000/image.jpg",
+    "price": 100000,
+    "stock": 5,
+    "category": "Guitar",
+    "status": true
+  },
+  {
+    "name": "Fender",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs0.bukalapak.com%2Fimg%2F5019852%2Fw-1000%2FFENDER_TELECASTER_Jual_Gitar_Listrik_Murah_Surabaya_FENDER_TELECASTER_-_0857_0663_6711.jpg&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Guitar",
+    "status": true
+  },
+  {
+    "name": "Gibson",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs4.bukalapak.com%2Fimg%2F9003416882%2Fw-1000%2FGITAR_GIBSON_J200_AKUSTIK_COSTUM.jpg&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Guitar",
+    "status": true
+  },
+  {
+    "name": "Ibanez",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-j9vWVCSgsbM%2FTmm1vIgxUKI%2FAAAAAAAAA4Q%2F5sGxEzZ7xfQ%2Fs1600%2FBlazer%252BBass.JPG&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Bass",
+    "status": true
+  },
+  {
+    "name": "Cort",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdshowmusic.com%2Fwp-content%2Fuploads%2F2020%2F04%2Fcort-a5-plus-sc-single-cutaway-bass-guitar-02.jpg&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Bass",
+    "status": true
+  },
+  {
+    "name": "Yamaha",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.conceptmusic.com.au%2Fimage%2Fcache%2Fcatalog%2Fproduct-1140%2Ftrbx174body__43316-1050x1200.jpg&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Bass",
+    "status": true
+  },
+  {
+    "name": "Fender",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gitarrentotal.ch%2Fwp-content%2Fuploads%2F2019%2F05%2FFenderPrecisionBassAmElite-2.jpg&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Bass",
+    "status": true
+  },
+  {
+    "name": "Gibson",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fc1.zzounds.com%2Fmedia%2Ffit%2C2018by3200%2Fquality%2C85%2FBASG15HCCH1_front_HighResolution-6981d3b19968c7d0c43d23e2e94f9145.jpg&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Bass",
+    "status": true
+  },
+  {
+    "name": "Pearl",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.fullcompass.com%2Fcommon%2Fproducts%2Foriginal%2F195386.jpg&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Drums",
+    "status": true
+  },
+  {
+    "name": "Tama",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1790%2F1665%2Fproducts%2Ftama-tama-superstar-hyperdrive-maple-5-piece-drum-set-drum-sets_1024x1024.jpg%3Fv%3D1522773358&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Drums",
+    "status": true
+  },
+  {
+    "name": "Mapex",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.bettermusic.com.au%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F1%2Fthumbnail%2F9df78eab33525d08d6e5fb8d27136e95%2Fs%2Ft%2Fstorm_-_camphor.jpg&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Drums",
+    "status": true
+  },
+  {
+    "name": "Sonor",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.UgzdnZPnN7eoyBFkElg1JQHaEK%26pid%3DApi&f=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Drums",
+    "status": true
+  },
+  {
+    "name": "Gretsch",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fstatic.keymusic.com%2Fproducts%2F133363%2FXL%2Fgretsch-drums-rpe605-renown-purewood-limited-hickory.jpg&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Drums",
+    "status": true
+  },
+  {
+    "name": "Behringer",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc1.zzounds.com%2Fmedia%2Ffit%2C2018by3200%2Fquality%2C85%2Fdga-5c8966593cbf257e29ba9eb2a2e47bfd.jpg&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Recording",
+    "status": true
+  },
+  {
+    "name": "Focusrite",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fdecibelaudiokenya.co.ke%2Fwp-content%2Fuploads%2F2019%2F07%2Fscarlett6i6-p.jpg%3Ffit%3D1321%252C1003%26ssl%3D1&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Recording",
+    "status": true
+  },
+  {
+    "name": "Presonus",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmusicnation.co.nz%2Fwp-content%2Fuploads%2F2017%2F10%2Fpresonus-faderport_16-2.jpg&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Recording",
+    "status": true
+  },
+  {
+    "name": "Audient",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.rekkerd.org%2Fwp-content%2Fuploads%2F2018%2F01%2FAudient-iD44.jpg&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Recording",
+    "status": true
+  },
+  {
+    "name": "Lexicon",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.bhphotovideo.com%2Fimages%2Fimages2000x2000%2FLexicon_LAMBDA_Lambda_Studio_Desktop_Recording_439187.jpg&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Recording",
+    "status": true
+  },
+  {
+    "name": "Yamaha",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.ii5jyOMc9nAYCNJ0GEWfJQHaIV%26pid%3DApi&f=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Keyboard",
+    "status": true
+  },
+  {
+    "name": "Casio",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ZyRLtNpgH3bvpf8c2QYwlAHaEZ%26pid%3DApi&f=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Keyboard",
+    "status": true
+  },
+  {
+    "name": "Korg",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.zh7Mce76wFRLYjvZHhLs2wHaEa%26pid%3DApi&f=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Keyboard",
+    "status": true
+  },
+  {
+    "name": "Samson",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.scmusic.com.au%2Fcontent%2Fuploads%2F2015%2F08%2Fp-24157-SAMSON-CARBON-61-USB-MIDI-CONTROLLER-KEYBOARD-SEMI-WEIGHTED-VELOCITY-SENSITIVE-DIAGONAL-WITH-IPAD.jpg&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Keyboard",
+    "status": true
+  },
+  {
+    "name": "Novation",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.wollongongmusic.com.au%2FProdImages%2Fnovation-impulse-61-usb-midi-controller-keyboard-1-full.jpg&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Keyboard",
+    "status": true
+  },
+  {
+    "name": "Senar gitar",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs4.bukalapak.com%2Fimg%2F9728592979%2Fw-1000%2F114871330_a9c17527_43f0_49e9_9e05_8dbf8626cce1_1833_1320.jpg&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Accessories",
+    "status": true
+  },
+  {
+    "name": "Stand mic",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fae01.alicdn.com%2Fkf%2FHTB1k4xeSXXXXXXQXFXXq6xXFXXXl%2FALLOYSEED-Universal-Microphone-Stand-Holder-Bracket-Professional-Desktop-Mic-Bracket-Ajustable-Metal-Holder-For-Live-Broadcast.jpg&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Accessories",
+    "status": true
+  },
+  {
+    "name": "Stand gitar",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftakeastandinc.com%2Fimages%2FWM_CHE_6730_12x168.jpg&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Accessories",
+    "status": true
+  },
+  {
+    "name": "Mic",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Firigmichd2_mic_tripod.jpg&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Accessories",
+    "status": true
+  },
+  {
+    "name": "Stand partitur",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fzeb-store.com%2Fwp-content%2Fuploads%2F2019%2F03%2Fgtrgtg.jpg&f=1&nofb=1",
+    "price": 100000,
+    "stock": 5,
+    "category": "Accessories",
+    "status": true
+  }
+]
